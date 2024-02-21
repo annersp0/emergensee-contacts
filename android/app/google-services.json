@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006748418",
+    "project_id": "emergensee-66a54",
+    "storage_bucket": "emergensee-66a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006748418:android:2f5ad89397fae5e2c1381b",
+        "android_client_info": {
+          "package_name": "com.example.emergensee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgK2lZHSOvwNqjCGBcJOqC2CdRYbPqGrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
